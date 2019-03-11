@@ -30,6 +30,6 @@
 
 + إما عن طريق إضافة ["Issue"](https://github.com/jordanopensource/jordan-open-gov-license/issues/new) لإبداء أية ملاحظات أو تعليقات
 
-+ أو عن طريق ["Pull request"](https://www.google.com) لاقتراح تعديل على النص
++ أو عن طريق اقتراح تعديل مباشر على النص ورفع ["Pull request"](https://github.com/jordanopensource/jordan-open-gov-license/edit/master/LICENSE.md).
 
 </div>
